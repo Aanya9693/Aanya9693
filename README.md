@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aanya</h1>
 
-<img align="right" alt="coding" wight="400" src="https://media4.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47ujwlryjnam3zr8tdtfnuxqlgt1rzj7tk2y4jhfvl&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanya9693&label=Profile%20views&color=0e75b6&style=flat" alt="aanya9693" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanya9693" alt="aanya9693" /></a> </p>
