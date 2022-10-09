@@ -1,6 +1,6 @@
 
 <h1>Hello World, I'm Aanya👋</h1>
-<h4> 👩‍🎓I am a second-year student at the Indian Institute of Engineering Science and Technology, Shibpur and a self-taught programmer who loves solving algorithmic chalenges, developing new skills, and procuring solutions to real-world problems.</h4>
+<h3> 👩‍🎓I am a second-year student at the Indian Institute of Engineering Science and Technology, Shibpur and a self-taught programmer who loves solving algorithmic chalenges, developing new skills, and procuring solutions to real-world problems.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
